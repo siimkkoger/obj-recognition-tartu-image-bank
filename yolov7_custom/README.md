@@ -1,4 +1,4 @@
-# Using YOLOv7 as one method for University of Tartu school project.
+# Using YOLOv7 as one method for object recognition for University of Tartu school project.
 
 We need to find multiple objects from images to be able to add labels to pictures.
 
