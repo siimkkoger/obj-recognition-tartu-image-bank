@@ -1,0 +1,89 @@
+image_id,labels
+img102.jpg,l0 l7 l24
+img103.jpg,l2 l9 l30 l50
+img11.jpg,l0 l4 l9 l50 l67
+img113.jpg,l1 l36 l70
+img114.jpg,l13
+img121.jpg,l0 l2 l11 l22 l54
+img126.jpg,l0 l6 l81
+img131.jpg,l0 l2 l13 l44 l66 l83
+img136.jpg,l0 l40 l44 l83
+img137.jpg,l1 l2
+img139.jpg,l1 l2 l65
+img140.jpg,l6 l9 l10 l22 l30 l50 l54 l61
+img15.jpg,l1 l53
+img150.jpg,l0 l7 l9 l23 l50 l76
+img151.jpg,l0 l9 l50 l67
+img152.jpg,l0 l7 l9 l50 l52 l67 l81
+img156.jpg,l0 l7 l9 l11 l50 l81
+img161.jpg,l0 l6 l10 l40 l61
+img166.jpg,l0 l2 l9 l50
+img167.jpg,l7 l9 l50
+img170.jpg,l0 l13 l30
+img173.jpg,l0 l2 l4 l17
+img176.jpg,l0 l4
+img18.jpg,l1 l2 l53
+img180.jpg,l0 l9 l30 l50 l81
+img181.jpg,l0 l2 l11
+img182.jpg,l0 l81
+img183.jpg,l20 l65
+img189.jpg,l2 l6 l9 l10 l50 l61
+img192.jpg,l0 l7 l11 l14 l16 l30 l72
+img194.jpg,l0 l2 l9 l50 l66 l67
+img195.jpg,l0 l31 l33 l35
+img206.jpg,l0 l1 l2 l11 l59 l81
+img208.jpg,l13
+img209.jpg,l0 l1 l2 l11 l59
+img211.jpg,l2 l30
+img212.jpg,l2 l30
+img218.jpg,l0 l30 l88 l89
+img22.jpg,l1 l2 l18 l71
+img221.jpg,l0 l24 l28 l48
+img228.jpg,l0 l4 l9 l14 l16 l50 l67 l69 l72
+img230.jpg,l0 l4 l9 l14 l16 l50 l67 l69 l72
+img231.jpg,l0 l4 l9 l50 l67 l69
+img234.jpg,l0 l9 l42 l50 l67
+img238.jpg,l0 l9 l11 l30 l50
+img243.jpg,l0 l7 l13 l30
+img247.jpg,l1 l2
+img248.jpg,l1 l2 l25
+img249.jpg,l2 l10 l25
+img250.jpg,l1 l3 l5
+img251.jpg,l11
+img252.jpg,l0 l11 l25
+img257.jpg,l0 l9 l30 l50
+img259.jpg,l0 l30 l88 l89
+img262.jpg,l0 l88 l89
+img265.jpg,l1 l3 l5
+img266.jpg,l1 l9 l50
+img279.jpg,l0 l6 l10 l40 l61
+img280.jpg,l0 l13 l24 l44 l66 l83
+img281.jpg,l0 l24
+img285.jpg,l1 l2
+img288.jpg,l1 l2
+img292.jpg,l0 l11 l83
+img296.jpg,l13 l24
+img3.jpg,l1 l3 l5
+img300.jpg,l0 l24
+img33.jpg,l0 l2 l35 l36 l70
+img37.jpg,l2 l35
+img39.jpg,l0 l64 l81
+img41.jpg,l0 l76
+img42.jpg,l14 l16 l72
+img43.jpg,l14 l16 l72
+img48.jpg,l0 l7 l9 l50
+img49.jpg,l0 l7 l9 l12 l14 l16 l50 l76
+img5.jpg,l0 l63
+img57.jpg,l0 l65 l66
+img59.jpg,l0 l7 l9 l12 l14 l16 l50 l52 l67
+img69.jpg,l0 l24
+img71.jpg,l0 l7 l10 l40
+img73.jpg,l0 l30
+img75.jpg,l0 l9 l10 l13 l50
+img79.jpg,l0 l2 l10
+img8.jpg,l14 l16 l30 l72
+img81.jpg,l0 l2 l10
+img84.jpg,l0 l13
+img90.jpg,l0 l31 l33 l90
+img93.jpg,l13
+img94.jpg,l13 l83 l88 l89

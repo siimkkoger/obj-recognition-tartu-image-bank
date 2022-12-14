@@ -5,6 +5,11 @@ We need to find multiple objects from images to be able to add labels to picture
 File "detect_custom.py" is a little rework of detect.py from the original repo https://github.com/wongkinyiu/yolov7
 To use it clone the original repo and add this file there.
 
+
+____________________
+## Setup
+
+Pull YOLOv7 from their repo and add "make_prediction.py" and "yolo7_detect.py" to that folder.
 ____________________
 
 ## References:
